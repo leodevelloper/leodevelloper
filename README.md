@@ -1,4 +1,4 @@
-![Banner]((https://github.com/leodevelloper/leodevelloper/blob/main/GitHub%20Banner.jpg))
+![Banner](https://github.com/leodevelloper/leodevelloper/blob/main/GitHub%20Banner.jpg)
 
 <div align=center> 
   
