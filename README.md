@@ -2,5 +2,5 @@
 
 <div align=center> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleomenne&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodevelloper&show_icons=true&theme=tokyonight)
 </div>
